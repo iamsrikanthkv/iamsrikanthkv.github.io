@@ -3,6 +3,6 @@ navbar:
   title: "My Analysis"
   left:
     - text: "About Me"
-      href: index.html.html
+      href: index.html
     - text: "BeerData-Analysis"
       href: Budweiser-DataAnalysis.html
