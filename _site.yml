@@ -2,7 +2,7 @@ name: "BeerData-Analysis"
 navbar:
   title: "My Analysis"
   left:
+    - text: "About Me"
+      href: index.html.html
     - text: "BeerData-Analysis"
       href: Budweiser-DataAnalysis.html
-    - text: "About"
-      href: index.html
