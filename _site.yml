@@ -1,0 +1,8 @@
+name: "BeerData-Analysis"
+navbar:
+  title: "My Analysis"
+  left:
+    - text: "BeerData-Analysis"
+      href: Budweiser-DataAnalysis.html
+    - text: "About"
+      href: index.html
