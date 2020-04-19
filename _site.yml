@@ -6,3 +6,5 @@ navbar:
       href: index.html
     - text: "BeerData-Analysis"
       href: Budweiser-DataAnalysis.html
+    - text: "Employee Attrition-Analysis"
+      href: EmployeeAttritionStudy.html
